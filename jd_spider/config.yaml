@@ -1,0 +1,9 @@
+# 京东商品信息爬虫配置模板
+keyword: "手机"
+sort_type: "综合"  # 可选：综合、销量
+max_pages: 5
+use_cookie: true
+crawl_image: false
+show_image_in_excel: false
+output_format: "CSV"  # 可选：CSV、XLSX
+headless: true 
